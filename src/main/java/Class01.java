@@ -15,6 +15,9 @@ public class Class01 {
         //Version5 kodlarim
 
 
+        System.out.println("Version5 deneme1");
+
+
 
     }
 
